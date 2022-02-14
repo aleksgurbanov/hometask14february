@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\wichoneisbigmethod\wichoneisbigmethod\bin\Debug\netcoreapp3.1\wichoneisbigmethod.exe
+C:\Users\User\source\repos\wichoneisbigmethod\wichoneisbigmethod\bin\Debug\netcoreapp3.1\wichoneisbigmethod.deps.json
+C:\Users\User\source\repos\wichoneisbigmethod\wichoneisbigmethod\bin\Debug\netcoreapp3.1\wichoneisbigmethod.runtimeconfig.json
+C:\Users\User\source\repos\wichoneisbigmethod\wichoneisbigmethod\bin\Debug\netcoreapp3.1\wichoneisbigmethod.runtimeconfig.dev.json
+C:\Users\User\source\repos\wichoneisbigmethod\wichoneisbigmethod\bin\Debug\netcoreapp3.1\wichoneisbigmethod.dll
+C:\Users\User\source\repos\wichoneisbigmethod\wichoneisbigmethod\bin\Debug\netcoreapp3.1\wichoneisbigmethod.pdb
+C:\Users\User\source\repos\wichoneisbigmethod\wichoneisbigmethod\obj\Debug\netcoreapp3.1\wichoneisbigmethod.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\wichoneisbigmethod\wichoneisbigmethod\obj\Debug\netcoreapp3.1\wichoneisbigmethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\wichoneisbigmethod\wichoneisbigmethod\obj\Debug\netcoreapp3.1\wichoneisbigmethod.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\wichoneisbigmethod\wichoneisbigmethod\obj\Debug\netcoreapp3.1\wichoneisbigmethod.AssemblyInfo.cs
+C:\Users\User\source\repos\wichoneisbigmethod\wichoneisbigmethod\obj\Debug\netcoreapp3.1\wichoneisbigmethod.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\wichoneisbigmethod\wichoneisbigmethod\obj\Debug\netcoreapp3.1\wichoneisbigmethod.dll
+C:\Users\User\source\repos\wichoneisbigmethod\wichoneisbigmethod\obj\Debug\netcoreapp3.1\wichoneisbigmethod.pdb
+C:\Users\User\source\repos\wichoneisbigmethod\wichoneisbigmethod\obj\Debug\netcoreapp3.1\wichoneisbigmethod.genruntimeconfig.cache
